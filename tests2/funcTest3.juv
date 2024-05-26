@@ -1,0 +1,11 @@
+
+func int64 myFunc {
+    x = 4
+    y = 20
+    c = x + y
+    write c
+}
+x = 6
+y = 10
+
+myFunc()

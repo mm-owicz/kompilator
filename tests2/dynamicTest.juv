@@ -1,0 +1,7 @@
+x = 4
+y = 3.14
+
+func int64 myFunc(){
+    c = 2
+}
+

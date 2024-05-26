@@ -1,0 +1,23 @@
+class myClass {
+    attrOne: int64
+    attrTwo: float64
+
+    int64 myClass {
+        self.attrOne = 5
+        self.attrTwo = 78.98
+    }
+
+    int64 writeAttrOne {
+        d = self.attrOne
+        write d
+    }
+
+    int64 writeAttrTwo {
+        c = self.attrTwo
+        write c
+    }
+}
+
+o = class myClass
+o.writeAttrOne()
+o.writeAttrTwo()

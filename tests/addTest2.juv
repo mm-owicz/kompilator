@@ -1,0 +1,26 @@
+a = 3.3 
+b = 4.75
+c = a + b
+write c
+
+
+f = 3.52
+g = 8.94
+h = f + g
+write h
+
+
+A: float64 = 3.22
+B: float64 = 3.141592653589793
+C = A + B
+write C
+
+
+M: int64 = 64
+P: float64 = 7.777777777777777
+MM = M + P
+write MM
+
+GI: int32 = 22
+JJ = MM + GI
+write JJ

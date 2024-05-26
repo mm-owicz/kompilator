@@ -1,0 +1,20 @@
+a = true
+b = false 
+c = false
+A = true
+d = b && c
+f = a && b
+
+write d || f
+
+g = a || b
+
+write g || f
+
+h = a && A
+
+write a && h
+
+write b && h
+
+write b ^^ h

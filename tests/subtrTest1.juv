@@ -1,0 +1,11 @@
+a = 30
+b = 10
+c = a - b
+write c
+
+d = 10.3
+e = a - d
+write e
+
+h = b - e
+write h

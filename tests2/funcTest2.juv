@@ -1,0 +1,9 @@
+
+func int64 myFunc {
+    h = "hello from function"
+    write h
+}
+
+h = "hello from main"
+myFunc()
+write h

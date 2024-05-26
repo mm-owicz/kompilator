@@ -1,0 +1,31 @@
+a = 2
+b = 3
+c = a + b
+write c
+
+
+d = 10
+g = c + d
+e = g + b
+write e
+
+AA: int32 = 3
+BB: int32 = 7
+CC = AA + BB
+write CC
+
+DD: int64 = 10
+EE = CC + DD
+write EE
+
+A: int64 = 3
+B: int64 = 7
+C = A + B
+write C
+
+D: int64 = 5
+E: int64 = 92233720368547758
+F = D + E
+write F
+
+

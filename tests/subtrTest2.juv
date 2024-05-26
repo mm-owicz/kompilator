@@ -1,0 +1,18 @@
+a = 50.32
+b = 40.31
+c = a - b
+write c
+
+d = 10
+e = a - d
+write e
+
+AA: int32 = 3
+BB: int32 = 7
+CC =  BB - AA
+write CC
+
+GG: float64 = 232.4343
+HH: float64 = 2.42
+PP = GG + HH
+write PP

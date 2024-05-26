@@ -1,0 +1,4 @@
+x = 5
+rep 3 {
+    write x
+}

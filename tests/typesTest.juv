@@ -1,0 +1,5 @@
+
+a: int64 = 22
+d: float64 = 23.444449499499
+write a
+write d

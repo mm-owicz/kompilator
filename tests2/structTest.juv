@@ -1,0 +1,16 @@
+
+struct myStr {
+    fieldOne:int64
+    fieldTwo:float64
+}
+
+s = struct myStr
+
+s.fieldOne = 4
+s.fieldTwo = 3.14
+
+a = s.fieldOne
+write a
+
+b = s.fieldTwo
+write b

@@ -1,0 +1,9 @@
+a = 12.8
+b = 4
+c = a / b
+write c
+
+e = 15.5
+f = 3.5
+g = e / f
+write g

@@ -1,0 +1,5 @@
+x = 4
+if ( x == 4 ) {
+    y = "it is equal 4"
+    write y
+}

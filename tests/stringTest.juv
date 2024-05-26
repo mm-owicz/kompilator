@@ -1,0 +1,5 @@
+a = "hello world"
+write a
+
+b = "ola"
+write b

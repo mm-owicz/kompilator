@@ -1,0 +1,5 @@
+x = 12
+if ( x >= 10 ) {
+    y = "it is equal or greater than 10"
+    write y
+}
